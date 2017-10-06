@@ -33,7 +33,9 @@ El formato por defecto no pretende cumplir con todos los
 [puntos que el SII exige](https://archivos.libredte.cl/sii/documentacion/manual_muestras_impresas.pdf)
 en cuanto a la posición, textos o colores que debe incluir un PDF. Sólo es la
 base sobre la cual se podrá construir el PDF final según los requerimientos de
-cada contribuyente y cumpliendo con lo indicado por el SII.
+cada contribuyente y cumpliendo con lo indicado por el SII. De todas formas
+existe una [issue abierta](https://github.com/LibreDTE/libredte-pdf/issues/1)
+para mejorar el ejemplo, por si alguien se anima a colaborar.
 
 El código que se incluye por defecto genera un PDF con la siguiente estructura:
 
