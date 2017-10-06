@@ -7,6 +7,9 @@ web que recibe un XML de un DTE y entrega un PDF.
 Inicialmente, se crea este proyecto para permitir a los usuarios una
 personalización completa de los PDF en la aplicación web de LibreDTE.
 
+El servicio web debe emular el [servicio web generar\_pdf de la aplicación oficial](https://doc.libredte.cl/api/#!/Documentos/post_utilidades_documentos_generar_pdf).
+Por lo anterior, recibe los mismos datos de entrada y se esperan los mismos datos de salida.
+
 Términos y condiciones de uso
 -----------------------------
 
@@ -34,7 +37,7 @@ cada contribuyente y cumpliendo con lo indicado por el SII.
 
 El código que se incluye por defecto genera un PDF con la siguiente estructura:
 
-![Formato PDF]()
+![Formato PDF](https://raw.githubusercontent.com/LibreDTE/libredte-pdf/master/img/ejemplo.png)
 
 Uso en aplicación web de LibreDTE
 ---------------------------------
